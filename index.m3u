@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/main/icon/antv.png", ANTV
+#EXTINF:-1 tvg-logo="https://github.com/AxFrds/IPTV/raw/main/icon/antv.png", ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/main/icon/sctv.jpeg", SCTV
