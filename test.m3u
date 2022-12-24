@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1, INDI KIDS
+https://cdn13jtedge.indihometv.com/joss/130/indikids/chunklist_w317958395_b1324100_sleng.m3u8?enc=J0bDH6RyKTIaXA0m7Cx_TQ&uid=&exp=1671854997
+
+#EXTINF:-1, ANTV
+https://live-production.secureswiftcontent.com/exp=1671861224~acl=/hls-p/ingest_782_*/*~hmac=50251e51f249346fa7c9b1bf549b486fb60b5266175e6052eb2959e47b6223ae/hls-p/ingest_782_720p/index.m3u8
+
+#EXTINF:-1, TRANS TV
+https://cdnbal1.indihometv.com/joss/133/transtv1080/chunklist_w1024144170_b2544100_sleng.m3u8?enc=7-hwwvFvs6xON0AYe00Nig&uid=&exp=1671853709
+
+#EXTINF:-1, TRANS 7
+https://cdnbal1.indihometv.com/joss/133/trans7/chunklist_w2029877350_b2544100_sleng.m3u8?enc=xVJepxnuUMPhrVaP5zNQ0w&uid=&exp=1671855569
+
+#EXTINF:-1, METRO TV
+https://cdnbal1.indihometv.com/joss/133/metrotv1080/chunklist_w1326323241_b2544100_sleng.m3u8?enc=PYr-b7Tx1X7rzdOLVl40ig&uid=&exp=1671855452
+
+#EXTINF:-1, TVONE
+https://cdnbal1.indihometv.com/joss/130/tvone/chunklist_w1281440852_b1004100_sleng.m3u8?enc=gQM685hpnl_qFUhXyW0Sqg&uid=&exp=1671853913
+
+#EXTINF:-1, KOMPAS TV
+https://cdnbal1.indihometv.com/joss/133/kompastv540/chunklist_w2031236420_b1004100_sleng.m3u8?enc=0dymCWPZpBKhkJ0neseeYA&uid=&exp=1671855786
+
+#EXTINF:-1, INEWS
+https://cdnbal1.indihometv.com/joss/134/inews/chunklist_w1482685907_b1004100_sleng.m3u8?enc=6tmgjyz7fkQ-hicDiR48Iw&uid=&exp=1671855845
+
+#EXTINF:-1, TVRI
+https://cdnbal1.indihometv.com/joss/133/tvri/chunklist_w1094642448_b1004100_sleng.m3u8?enc=CM17Um9OdsScDqggLpPYQA&uid=&exp=1671854126
+
+#EXTINF:-1, RTV
+https://live-production.secureswiftcontent.com/exp=1671861156~acl=/hls-p/ingest_1561_*/*~hmac=4c5b7ddcee5083637faaaa0ed40793d6619393c076b61be3181168d2fdf47d17/hls-p/ingest_1561_720p/index.m3u8
+
+#EXTINF:-1, SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1671861058~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=455c60dc78be13c9d43d36106de8ae798615fad01c889a847c7e6b4aab4da9fc/vp9/204_stream.mpd
+
+#EXTINF:-1, INDOSIAR
+https://live-production.secureswiftcontent.com/exp=1671860830~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=b98ffe014c2aa1571c4746df02e2d7cbf718cb2387eb2940437da7ab4e0e6fad/vp9/205_stream.mpd
+
+#EXTINF:-1, CARTOON NETWORK
+https://cdn12jtedge.indihometv.com/joss/194/cartoonnetwork/chunklist_w617928092_b1004100_sleng.m3u8?enc=jmllqOCyGCdJna9PgmjuBg&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjMGY3Zjk5Zi01Zjk0LTM5ZWZhLTZjM2ZhOTU5ZmU2NSIsImVtYWlsIjoiYWZyZHMueEBnbWFpbC5jb20iLCJsb2dpblN0YXR1cyI6dHJ1ZSwic3Vic2NyaWJlcl9pZCI6IjI2Mjc1MTgiLCJmdWxsbmFtZSI6IkFobWFkIEZpcmRhdXMiLCJkZXZpY2VJZCI6IloyVjBYMlJsZG1salpWOXBaSHd4TWpVdU1UWTJMakV4T1M0eE9EQXROak5CTkVWRE56VXlNME16UVE9PSIsImlkIjoyMjM2NzcsImV4cCI6MTY3MjQ1MDE4MCwiaWF0IjoxNjcxODQ1MzgwLCJpc3MiOiJVc2VlVFZHTyJ9.WKY_9MhxZx-a3ckZlzT2xQcwSP-UE9ssBT4B7CCyU38v8mhhcPus0CaPjDFrPbjF5tF5myTrbH0DoviBlU1UG65ZtMsYjxdgH2FieapsBHdWk_5KJKqE4vmz8M3Sey68XR97Y3QJBI4QRdJB0Xp445Le-f3a-I9He8jfxhJ9KXoFAILTKfhoZWOMMKEbsnevwyVn4i7XjJx4q4myLds8aGtlE4hZq8f5D0BYWKQoYvbKL5TA-7g8mLNJLV6rwmeJKCoh4dcqKdApgO2M3yTF9_6yhDDLVnYjdjxEW1Ug6X3nmxQsfuqan2PWWhnfBjfRhiCbPnBrHaTms0GSlfajqmeNBn-n_UKNhDbHYRshyQIUKgpA1HGCFnZUyJiW_03ruvxnwlFWysSbmuxZ1THtLd5mnhA0NpMEKTofsbhRvFb-H2g7Z8B1cNuo5lNaINhKYb0I1DPJPa48H1y6g_spt3y1qh8ZKQHP1IcYXYE5O58GRaVVMVMAZMsiAnl6mB8brWdMAcXzc3OSiFpw8EKzjv8L5rPwP-7LyRQR-mAigE1rgVdQotCzoDb_90u-4mvESzKZ7XFhiNE7Sn-LD7qxwF5GR-EzKo8sQNuyiKoNWA7HFwGd7QQ-zwRD8ROfj-vvCaFbROObYKkp7TuwbnjteDxbecqXD0Ry5Vc-HfF1aeo&exp=1671854672
+
+#EXTINF:-1, MY KIDZ
+https://cdn10jtedge.indihometv.com/joss/134/mykids/chunklist_w426357477_b1004100_sleng.m3u8?enc=I3-qQB0KajP7mIJafL2naQ&uid=&exp=1671856778
+
+#EXTINF:-1, MENTARI TV
+https://live-production.secureswiftcontent.com/exp=1671860981~acl=/hls-p/ingest_8237_*/*~hmac=2a161e0668ea576ad1605eadcaabb2e14cf3a429e8502c4b046e99c43cfa40e9/hls-p/ingest_8237_720p/index.m3u8
+
+#EXTINF:-1, BOOMERANG
+https://cdn09jtedge.indihometv.com/atemedvr/1671842568/0/BOOMERANG_AT/BOOMERANG_AT.mpd?dvr?stime=1671846168&etime=1671846168&encoded=002015c346df12913e805
