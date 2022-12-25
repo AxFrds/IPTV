@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cvX4Y0v416x-U4hIlAlvbg3BaFA=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg", ANTV
-https://live-production.secureswiftcontent.com/exp=1671927222~acl=/hls-p/ingest_782_*/*~hmac=7ce8d96f8bcea1c7cae099bc9b99a26cdaa5f7dc5b44e5997b856bbaf7313c77/hls-p/ingest_782_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1672026909~acl=/hls-p/ingest_782_*/*~hmac=51d0af666cd56b5b9d995201b627e227a3ca047d665e347c05d67c6c1e775a85/hls-p/ingest_782_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UH6N9mYAXG0SfddVV5glvhVVrR0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg", TRANS TV
 https://live-production.secureswiftcontent.com/exp=1672026383~acl=/vp9/733_stream.mpd!/vp9/733/*!/vp9/*/733_stream.mpd!/vp9/*/733/*~hmac=a6975cc0729f989e174e45509ea703d3e84d9c178771673702e9a37551984bab/vp9/733_stream.mpd
