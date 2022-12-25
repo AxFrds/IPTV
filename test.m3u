@@ -18,5 +18,5 @@ https://etslive-2-vidio-com.akamaized.net/exp=1671926857~acl=/vp9/204_stream.mpd
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg", INDOSIAR
 https://live-production.secureswiftcontent.com/exp=1671926928~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=e730d4710536b9f6dc14e86699e42272d8671391bcf89326fae866e53a30cd82/vp9/205_stream.mpd
 
-#EXTINF:-1 tvg-logo="", MENTARI TV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j_gKn4FRYReHoUYdcRr9Ey7vXF8=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg", MENTARI TV
 https://live-production.secureswiftcontent.com/exp=1671860981~acl=/hls-p/ingest_8237_*/*~hmac=2a161e0668ea576ad1605eadcaabb2e14cf3a429e8502c4b046e99c43cfa40e9/hls-p/ingest_8237_720p/index.m3u8
