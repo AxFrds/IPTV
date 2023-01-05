@@ -57,11 +57,6 @@ https://av-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBang
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/btv.jpg", BTV
-https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/mncnews.jpg", MNC NEWS
 https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
@@ -80,8 +75,19 @@ https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/animax.jpg", ANIMAX
 https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/oktv.jpg", OK TV
+https://av-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/mykidz.jpg", MY KIDZ
 http://rr.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/mycn.jpg", MY CINEMA
+http://rr.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/myfc.jpg", MY FAMILY CHANNEL
+http://rr.dens.tv/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/trans7.jpg", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1047670161_b744100_sleng.m3u8
@@ -105,10 +111,16 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/magna.jpg", MAGNA TV
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/garuda.jpg", GARUDA TV
-https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/ntv.jpg", NTV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/btv.jpg", BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AxFrds/IPTV/free/icon/aniplus.jpg", ANIPLUS
+http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
